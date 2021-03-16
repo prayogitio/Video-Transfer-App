@@ -1,0 +1,15 @@
+{
+  "name": "Get streamed video file and forward it to client in test room",
+  "version": "1.0.0",
+  "description": "Simple video transfer App",
+  "main": "clinet_a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prayogi Tio",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.4.0",
+    "socket.io-client": "^2.4.0"
+  }
+}
